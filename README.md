@@ -17,14 +17,14 @@ A atividade contém um resumo dos capítulos listados abaixo e, para cada capít
 Digital Signal Processing using MATLAB 3rd edition
 
 ### Capítulos Estudados:
-Cada capítulo inclui notebooks do Google Colab, vídeos explicativos e simulações.
+Cada capítulo inclui um notebook do Google Colab com o resumo e as simulações, e vídeos explicativos.
 
-* Capítulo 4: A Transformada-Z [[Notebook/Colab](https://colab.research.google.com/drive/1A0AUxzh4PTCIfapHJ5bhJhGf3Xj5RvOZ?usp=sharing)] [[Vídeos]()] [[Simulações]()]
-* Capítulo 5: Transformada Discreta de Fourier [[Notebook/Colab](https://colab.research.google.com/drive/1yCFOpukncUaQDWOemc3vR0nKVeAE2voR?usp=sharing)] [[Vídeos]()] [[Simulações]()]
-* Capítulo 6: Implementação de Filtros Discretos no Tempo [[Notebook/Colab](https://colab.research.google.com/drive/1cb2CbEwIDyDy0W5TeRGxBRTTG6g6VC5W?usp=sharing)] [[Vídeos]()] [[Simulações]()]
-* Capítulo 7: Projeto de Filtros FIR [[Notebook/Colab](https://colab.research.google.com/drive/1vJrmnQzlquMVi6q3uaHn4kjjRwmXfnsQ?usp=sharing)] [[Vídeos]()] [[Simulações]()]
-* Capítulo 8: Projeto de Filtros IIR [[Notebook/Colab](https://colab.research.google.com/drive/1ypUrym9kXpoQAwZ7mRIMZBvsZPJUcFdR?usp=sharing)] [[Vídeos]()] [[Simulações]()]
-* Capítulo 12: Aplicações em Comunicações [[Notebook/Colab](https://colab.research.google.com/drive/1tcWiXBrzEJNeopdwNxYJhdYFJgZT1NWz?usp=sharing)] [[Vídeos]()] [[Simulações]()]
+* Capítulo 4: A Transformada-Z [[Notebook/Colab](https://colab.research.google.com/drive/1A0AUxzh4PTCIfapHJ5bhJhGf3Xj5RvOZ?usp=sharing)] [[Vídeos]()]
+* Capítulo 5: Transformada Discreta de Fourier [[Notebook/Colab](https://colab.research.google.com/drive/1yCFOpukncUaQDWOemc3vR0nKVeAE2voR?usp=sharing)] [[Vídeos]()]
+* Capítulo 6: Implementação de Filtros Discretos no Tempo [[Notebook/Colab](https://colab.research.google.com/drive/1cb2CbEwIDyDy0W5TeRGxBRTTG6g6VC5W?usp=sharing)] [[Vídeos]()]
+* Capítulo 7: Projeto de Filtros FIR [[Notebook/Colab](https://colab.research.google.com/drive/1vJrmnQzlquMVi6q3uaHn4kjjRwmXfnsQ?usp=sharing)] [[Vídeos]()] 
+* Capítulo 8: Projeto de Filtros IIR [[Notebook/Colab](https://colab.research.google.com/drive/1ypUrym9kXpoQAwZ7mRIMZBvsZPJUcFdR?usp=sharing)] [[Vídeos]()] 
+* Capítulo 12: Aplicações em Comunicações [[Notebook/Colab](https://colab.research.google.com/drive/1tcWiXBrzEJNeopdwNxYJhdYFJgZT1NWz?usp=sharing)] [[Vídeos]()] 
 
 ### Ferramentas Utilizadas
 A atividade foi desenvolvida com as seguintes ferramentas:
